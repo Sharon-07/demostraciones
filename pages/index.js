@@ -13,10 +13,12 @@ export default function Home() {
         <h1 className={styles.title}>
           +<a href="https://hammingolay.vercel.app/">Demostraciones</a>
         </h1>
-      <div className={video}>
+      <div className={styles.grid}>
+      <h3>Video &rarr;</h3>
 
       </div>
-      <div className={presentacion}>
+      <div className={styles.grid}>
+      <h3>Presentación &rarr;</h3>
         
         </div>
     
